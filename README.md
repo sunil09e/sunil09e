@@ -25,18 +25,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
-💻 **Cloud Platform:** AWS (EC2, S3, IAM, VPC, Route 53, CloudWatch, ECR)  
-⚙️ **CI/CD Tools:** Jenkins, GitHub Actions  
-🐳 **Containers:** Docker, Docker Compose, Kubernetes  
-🏗️ **Infrastructure as Code:** Terraform  
-🔧 **Configuration Management:** Ansible  
-📊 **Monitoring:** Prometheus, Grafana  
-🔁 **Version Control:** Git, GitHub  
-🖥️ **Operating System:** Linux(RedHat, Ubuntu) 
-📜 **Scripting:** Shell Scripting  
-## 💡 Tech Stack & Tools
 
 <table align="center">
 <tr>
@@ -82,7 +70,7 @@
 <tr>
 <td><b>Monitoring Tools</b></td>
 <td>
-Prometheus | Grafana
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </td>
 </tr>
 
@@ -103,7 +91,7 @@ Prometheus | Grafana
 <tr>
 <td><b>Scripting</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=bash,python" />
+<img src="https://skillicons.dev/icons?i=bash" />
 </td>
 </tr>
 
