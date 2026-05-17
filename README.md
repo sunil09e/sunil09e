@@ -114,7 +114,7 @@
 ---
 
 ## 📜 Certifications
-🏅 DevOps Engineering Certification @ GUVI
+🏅 DevOps Engineering Certification @ GUVI HCL
 
 ---
 ## 📊 GitHub Stats
