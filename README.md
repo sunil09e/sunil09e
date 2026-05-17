@@ -36,7 +36,78 @@
 🔁 **Version Control:** Git, GitHub  
 🖥️ **Operating System:** Linux(RedHat, Ubuntu) 
 📜 **Scripting:** Shell Scripting  
+## 💡 Tech Stack & Tools
 
+<table align="center">
+<tr>
+<th>Category</th>
+<th>Technologies</th>
+</tr>
+
+<tr>
+<td><b>Cloud Platform</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws" />
+</td>
+</tr>
+
+<tr>
+<td><b>CI/CD Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=jenkins,github" />
+</td>
+</tr>
+
+<tr>
+<td><b>Containers & Orchestration</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</td>
+</tr>
+
+<tr>
+<td><b>Infrastructure as Code</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=terraform" />
+</td>
+</tr>
+
+<tr>
+<td><b>Configuration Management</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=ansible" />
+</td>
+</tr>
+
+<tr>
+<td><b>Monitoring Tools</b></td>
+<td>
+Prometheus | Grafana
+</td>
+</tr>
+
+<tr>
+<td><b>Version Control</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</td>
+</tr>
+
+<tr>
+<td><b>Operating System</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=linux" />
+</td>
+</tr>
+
+<tr>
+<td><b>Scripting</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=bash,python" />
+</td>
+</tr>
+
+</table>
 ---
 
 ## 📂 Featured Projects
