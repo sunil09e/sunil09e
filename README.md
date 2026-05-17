@@ -132,3 +132,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sunil09e&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
+## 🌐 Let's Connect
+
+<p align="center">
+<a href="https://github.com/yourusername">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/your-link">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
