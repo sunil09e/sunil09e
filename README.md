@@ -35,7 +35,6 @@
 📊 **Monitoring:** Prometheus, Grafana  
 🔁 **Version Control:** Git, GitHub  
 🖥️ **Operating System:** Linux(RedHat, Ubuntu) 
-
 📜 **Scripting:** Shell Scripting  
 
 ---
