@@ -107,6 +107,36 @@
 
 ---
 
+## 💻 Favorite Tech
+
+> Tools, technologies, and platforms I work with.
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="65"/><br>AWS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="65"/><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="65"/><br>Jenkins</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="65"/><br>Kubernetes</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=terraform" width="65"/><br>Terraform</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ansible" width="65"/><br>Ansible</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="65"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="65"/><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="65"/><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ubuntu" width="65"/><br>Ubuntu</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="65"/><br>Bash</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="65"/><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prometheus" width="65"/><br>Prometheus</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=grafana" width="65"/><br>Grafana</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="65"/><br>GitHub Actions</td>
+  </tr>
+</table>
+
 ## 📂 Featured Projects
 ✅ End-to-End CI/CD Deployment on AWS EKS  
 ✅ Application Deployment using Jenkins, Docker, Terraform & Kubernetes  
