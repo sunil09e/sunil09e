@@ -104,6 +104,7 @@
 </tr>
 
 </table>
+
 ---
 
 ## 📂 Featured Projects
