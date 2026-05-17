@@ -41,6 +41,13 @@
 </tr>
 
 <tr>
+<td><b>Programming Language</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python" />
+</td>
+</tr>
+
+<tr>
 <td><b>CI/CD Tools</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=jenkins,github" />
@@ -85,7 +92,7 @@
 <tr>
 <td><b>Operating System</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />
+<img src="https://skillicons.dev/icons?i=linux,windows" />
 </td>
 </tr>
 
