@@ -25,6 +25,7 @@
 
 ---
 
+## 🛠 Tech Stack
 
 <table align="center">
 <tr>
@@ -84,7 +85,7 @@
 <tr>
 <td><b>Operating System</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />
 </td>
 </tr>
 
